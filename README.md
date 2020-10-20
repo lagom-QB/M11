@@ -1,7 +1,7 @@
 # M11
 Neural networks and Computer Vision
 
-As a result of the course, we had to:\
+As a result of this, we had to:\
 ● Learn to apply Deep Learning techniques in practice\
 ● Understand the theory behind the Deep Learning from basics to state-of-the-art approaches\
 ● Learn how to train various deep neural architectures\
